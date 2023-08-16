@@ -29,32 +29,32 @@ endif
 " Space
 let s:space0 = { "gui": "#100E23", "cterm": "232", "cterm16": "0"}
 let s:space1 = { "gui": "#1e1c31", "cterm": "233", "cterm16": "NONE"}
-let s:space2 = { "gui": "#2D2B40", "cterm": "233", "cterm16": "NONE" }
-let s:space3 = { "gui": "#3E3859", "cterm": "236", "cterm16": "8"}
-let s:space4 = { "gui": "#585273", "cterm": "236", "cterm16": "8"}
+let s:space2 = { "gui": "#2b332f", "cterm": "233", "cterm16": "NONE" }
+let s:space3 = { "gui": "#3b423f", "cterm": "236", "cterm16": "8"}
+let s:space4 = { "gui": "#4a524e", "cterm": "236", "cterm16": "8"}
 
 " Astral
-let s:astral0 = {"gui": "#8A889D", "cterm": "252", "cterm16": "15"}
-let s:astral1 = { "gui": "#cbe3e7", "cterm": "253", "cterm16": "7"}
+let s:astral0 = {"gui": "#848786", "cterm": "252", "cterm16": "15"}
+let s:astral1 = { "gui": "#87a39a", "cterm": "253", "cterm16": "7"}
 
 " Nebula
-let s:red = { "gui": "#F48FB1", "cterm": "204", "cterm16": "1"}
-let s:dark_red = { "gui": "#F02E6E", "cterm": "203", "cterm16": "9"}
+let s:red = { "gui": "#945f83", "cterm": "204", "cterm16": "1"}
+let s:dark_red = { "gui": "#804156", "cterm": "203", "cterm16": "9"}
 
-let s:green = { "gui": "#A1EFD3", "cterm": "120", "cterm16": "2"}
-let s:dark_green = { "gui": "#7fe9c3", "cterm": "119", "cterm16": "10"}
+let s:green = { "gui": "#5f9481", "cterm": "120", "cterm16": "2"}
+let s:dark_green = { "gui": "#418050", "cterm": "119", "cterm16": "10"}
 
-let s:yellow = { "gui": "#ffe6b3", "cterm": "228", "cterm16": "3"}
-let s:dark_yellow = { "gui": "#F2B482", "cterm": "215", "cterm16": "11"}
+let s:yellow = { "gui": "#92945f", "cterm": "228", "cterm16": "3"}
+let s:dark_yellow = { "gui": "#7a8041", "cterm": "215", "cterm16": "11"}
 
-let s:blue = { "gui": "#91ddff", "cterm": "159", "cterm16": "4"}
+let s:blue = { "gui": "#5f7094", "cterm": "159", "cterm16": "4"}
 let s:dark_blue = { "gui": "#78a8ff", "cterm": "135", "cterm16": "13"}
 
-let s:purple = { "gui": "#d4bfff", "cterm": "141", "cterm16": "5"}
-let s:dark_purple = { "gui": "#7676ff", "cterm": "75", "cterm16": "12"}
+let s:purple = { "gui": "#7d5f94", "cterm": "141", "cterm16": "5"}
+let s:dark_purple = { "gui": "#5c4180", "cterm": "75", "cterm16": "12"}
 
-let s:cyan = { "gui": "#ABF8F7", "cterm": "122", "cterm16": "6"}
-let s:dark_cyan = { "gui": "#63f2f1", "cterm": "121", "cterm16": "14"}
+let s:cyan = { "gui": "#5f9194", "cterm": "122", "cterm16": "6"}
+let s:dark_cyan = { "gui": "#416180", "cterm": "121", "cterm16": "14"}
 
 let s:bg              = s:space1
 let s:bg_dark       = s:space0
